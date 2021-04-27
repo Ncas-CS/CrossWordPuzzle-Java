@@ -9,7 +9,7 @@ future scope:- new Puzzles
 <br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ncas-CS/CrosswordPuzzle-Java?color=blue&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ncas-CS/CrosswordPuzzle-Java?label=Repo%20Size%3A&style=for-the-badge)
-|My Age Calculation |
+|Cross Word puzzle game |
 |------|
 |<img src="./Img/crosswordPuzzleJava.png" width="400">|
 
